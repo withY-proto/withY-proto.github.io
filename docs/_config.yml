@@ -23,8 +23,8 @@ email: withYao@outlook.com
 description: Homepage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: y
-github_username:  withY-proto
+twitter_username: ""
+github_username: withY-proto
 
 # Build settings
 theme: minima
